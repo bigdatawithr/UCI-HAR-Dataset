@@ -2,10 +2,11 @@
 
 Downlaod the repo to local direcory.
 
-Use
-setwd("direcory name")
+Run the following code in R or RStudio:
 
-source(run_analysis.R)
+	setwd("direcory name")
+
+	source(run_analysis.R)
 
 The output: summary_result.txt.
 
